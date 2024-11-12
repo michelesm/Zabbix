@@ -16,15 +16,15 @@ Para realizar uma instalação simples, você precisará de um servidor (recomen
 - **Zabbix Agent**: Instalado nos dispositivos a serem monitorados.
 - **Interface Web**: Dashboard de visualização e configuração.
 
-**Demonstração: Monitoramento de um Servidor Linux com Zabbix**
+**Monitoramento de um Servidor Linux com Zabbix**
 
-Abaixo, um passo a passo para configurar o Zabbix para monitorar um servx'idor Linux.
+Abaixo, um passo a passo para configurar o Zabbix para monitorar um servidor Linux.
 
 ---
 
 ### Passo a Passo de Configuração do Zabbix
 
-####Instalação do Zabbix Server
+#### Instalação do Zabbix Server
 1. **Configuração do ambiente**: O Zabbix requer um servidor com MySQL/MariaDB, Apache/Nginx e PHP.
    
 2. **Instalação do Zabbix Server**:
@@ -98,7 +98,7 @@ Para monitorar um servidor específico, instale o Zabbix Agent nele.
 
 ---
 
-**5. Exemplo Básico de Monitoramento**
+**Exemplo de Monitoramento**
 
 Para ilustrar o uso do Zabbix, abaixo está um exemplo básico de monitoramento de CPU e memória:
 
