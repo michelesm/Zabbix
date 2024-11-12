@@ -1,6 +1,4 @@
 
-**Introdução ao Zabbix**
-
 O Zabbix é uma ferramenta open-source de monitoramento de infraestrutura de TI. Ele é amplamente utilizado para monitorar redes, servidores, serviços em nuvem, máquinas virtuais, dispositivos IoT e até mesmo aplicações. O Zabbix coleta dados em tempo real de uma variedade de dispositivos e sistemas, permitindo uma visão completa da performance, disponibilidade e saúde da infraestrutura. As principais funcionalidades incluem monitoramento de disponibilidade, coleta e exibição de métricas, geração de alertas e relatórios, e integração com outras ferramentas.
 
 **Funcionalidades do Zabbix**
